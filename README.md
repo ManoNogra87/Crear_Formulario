@@ -1,5 +1,6 @@
 # Crear_Formulario
-Código explicado de cómo crear un formulario y tenerlo listo para agregarle cuelquier funcionalidad
+Código explicado de cómo crear un formulario y tenerlo listo para agregarle cuelquier funcionalidad.
+
 Comentarios generales: La librerya swing nos permite usar interfaces graficas para un programa
 la clase principal-constructor que seria el formulario, debe heredar los metodos y propiedades de la clase
 JFrame, para poder visualizar y proporcionarle las caracteresticas deseadas.
